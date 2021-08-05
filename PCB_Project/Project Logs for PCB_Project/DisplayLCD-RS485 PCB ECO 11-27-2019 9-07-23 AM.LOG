@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=DIR NewDesignator=SB2
+Change Component Designator: OldDesignator=RESET NewDesignator=S2
+Change Component Designator: OldDesignator=RX NewDesignator=SB1
+Change Component Designator: OldDesignator=TX NewDesignator=SB3
+Added Pin To Net: NetName=3V3 Pin=R16-2
+Added Pin To Net: NetName=3V3 Pin=R17-2
+Added Pin To Net: NetName=3V3 Pin=R18-2
+Added Pin To Net: NetName=3V3 Pin=R19-2
+Added Pin To Net: NetName=3V3 Pin=R22-2
+Added Pin To Net: NetName=3V3 Pin=R24-2
+Added Pin To Net: NetName=3V3 Pin=R25-2
+Added Pin To Net: NetName=3V3 Pin=R26-2
+Change Net Name : Old Net Name=3V3 New Net Name=+3.3V
+Added Room: Name=DisplayLCD-RS485

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RELAY_LED_1 Pin=U4-25
+Removed Pin From Net: NetName=RELAY_LED_2 Pin=U4-26
+Added Pin To Net: NetName=RELAY_LED_2 Pin=U4-25
+Added Pin To Net: NetName=RELAY_LED_1 Pin=U4-26
+Added Room: Name=DisplayLCD-RS485

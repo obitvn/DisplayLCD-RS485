@@ -1,0 +1,64 @@
+Change Component Designator: OldDesignator=R6 NewDesignator=R10
+Change Component Designator: OldDesignator=R7 NewDesignator=R11
+Change Component Designator: OldDesignator=R8 NewDesignator=R12
+Change Component Designator: OldDesignator=R9 NewDesignator=R13
+Change Component Designator: OldDesignator=R10 NewDesignator=R14
+Change Component Designator: OldDesignator=R11 NewDesignator=R15
+Change Component Designator: OldDesignator=R12 NewDesignator=R16
+Change Component Designator: OldDesignator=R13 NewDesignator=R17
+Change Component Designator: OldDesignator=R14 NewDesignator=R18
+Change Component Designator: OldDesignator=R15 NewDesignator=R19
+Change Component Designator: OldDesignator=R16 NewDesignator=R20
+Change Component Designator: OldDesignator=R17 NewDesignator=R21
+Change Component Designator: OldDesignator=R18 NewDesignator=R22
+Change Component Designator: OldDesignator=R19 NewDesignator=R23
+Change Component Designator: OldDesignator=R20 NewDesignator=R24
+Change Component Designator: OldDesignator=R21 NewDesignator=R25
+Change Component Designator: OldDesignator=R22 NewDesignator=R26
+Change Component Designator: OldDesignator=R23 NewDesignator=R27
+Change Component Designator: OldDesignator=R24 NewDesignator=R28
+Change Component Designator: OldDesignator=R25 NewDesignator=R29
+Change Component Designator: OldDesignator=R26 NewDesignator=R30
+Change Component Designator: OldDesignator=R27 NewDesignator=R31
+Change Component Designator: OldDesignator=R28 NewDesignator=R32
+Change Component Designator: OldDesignator=R29 NewDesignator=R33
+Change Component Designator: OldDesignator=R30 NewDesignator=R34
+Change Component Designator: OldDesignator=R31 NewDesignator=R35
+Change Component Designator: OldDesignator=R32 NewDesignator=R36
+Change Component Designator: OldDesignator=R33 NewDesignator=R37
+Change Component Designator: OldDesignator=R34 NewDesignator=R38
+Change Component Designator: OldDesignator=R35 NewDesignator=R39
+Change Component Designator: OldDesignator=R36 NewDesignator=R40
+Added Component: Designator=R6(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R7(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R8(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R9(RES-SMD-0805)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+3.3V Pin=R6-1
+Added Pin To Net: NetName=CANRX/SCL Pin=R6-2
+Added Pin To Net: NetName=+3.3V Pin=R7-1
+Added Pin To Net: NetName=CANTX/SDA Pin=R7-2
+Added Pin To Net: NetName=+3.3V Pin=R8-1
+Added Pin To Net: NetName=UART3_RX/SDA Pin=R8-2
+Added Pin To Net: NetName=+3.3V Pin=R9-1
+Added Pin To Net: NetName=UART3_TX/SCL Pin=R9-2
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetR24_1 New Net Name=NetR28_1
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR29_1
+Change Net Name : Old Net Name=NetR26_1 New Net Name=NetR30_1
+Change Net Name : Old Net Name=NetR27_1 New Net Name=NetR31_1
+Change Net Name : Old Net Name=NetR33_2 New Net Name=NetR37_2
+Change Net Name : Old Net Name=NetR34_2 New Net Name=NetR38_2
+Change Net Name : Old Net Name=NetR36_1 New Net Name=NetR40_1
+Added Member To Class: ClassName=DisplayLCD-RS485 Member=Component R37 22R
+Added Member To Class: ClassName=DisplayLCD-RS485 Member=Component R38 22R
+Added Member To Class: ClassName=DisplayLCD-RS485 Member=Component R39 10K
+Added Member To Class: ClassName=DisplayLCD-RS485 Member=Component R40 10K
+Added Room: Name=DisplayLCD-RS485

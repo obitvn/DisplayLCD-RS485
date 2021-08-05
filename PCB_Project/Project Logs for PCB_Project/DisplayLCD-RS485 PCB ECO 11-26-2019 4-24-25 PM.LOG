@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=3V3 Pin=C15-1
+Added Pin To Net: NetName=3V3 Pin=C16-1
+Added Pin To Net: NetName=3V3 Pin=C21-1
+Added Pin To Net: NetName=3V3 Pin=D3-2
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Added Pin To Net: NetName=3V3 Pin=U3-4
+Added Room: Name=DisplayLCD-RS485

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=IC1 Old Footprint=SO-8N New Footprint=SO8
+Added Component: Designator=Q1(SOT23-231)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetD4_1 Pin=Q1-3
+Added Member To Class: ClassName=DisplayLCD-RS485 Member=Component Q1 2N3904
+Added Room: Name=DisplayLCD-RS485

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=LED_RELAY_SOS Pin=U4-32
+Removed Pin From Net: NetName=LED_BUSY Pin=U4-33
+Added Room: Name=DisplayLCD-RS485

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CANRX/SCL Pin=C12-1
+Removed Pin From Net: NetName=CANTX/SDA Pin=C12-2
+Removed Pin From Net: NetName=UART3_RX/SDA Pin=C12-7
+Removed Pin From Net: NetName=UART3_TX/SCL Pin=C12-8
+Added Pin To Net: NetName=UART3_TX/SCL Pin=C12-1
+Added Pin To Net: NetName=UART3_RX/SDA Pin=C12-2
+Added Pin To Net: NetName=CANTX/SDA Pin=C12-7
+Added Pin To Net: NetName=CANRX/SCL Pin=C12-8
+Added Room: Name=DisplayLCD-RS485
